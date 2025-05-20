@@ -1,0 +1,34 @@
+portfolio/
+├── admin/
+│   ├── dashboard.php
+│   ├── projects.php
+│   ├── skills.php
+│   ├── messages.php
+│   └── auth/
+│       ├── login.php
+│       └── logout.php
+├── includes/
+│   ├── config.php
+│   ├── db.php
+│   ├── functions.php
+│   ├── header.php
+│   ├── footer.php
+│   ├── admin-header.php
+│   ├── admin-footer.php
+│   └── admin-sidebar.php
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── admin.css
+│   ├── js/
+│   │   ├── main.js
+│   │   └── admin.js
+│   └── images/
+│   └── uploads/
+├── index.php
+├── about.php
+├── contact.php
+├── projects.php
+└── api/
+    ├── get_project.php
+    └── mark_as_read.php
